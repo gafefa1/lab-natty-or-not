@@ -37,12 +37,6 @@ Foi realizado um vídeo usando algumas ferramentas de IA com o meu próprio aúd
 
 Segue o link do resultado do meu projeto: 
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
 ## Links Interessantes
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
