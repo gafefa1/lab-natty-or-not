@@ -35,7 +35,7 @@ Foi realizado um vídeo usando algumas ferramentas de IA com o meu próprio aúd
 
 ## 🚀 Resultados
 
-Segue o link do resultado do meu projeto: 
+Os arquivos do projeto estão no repositório: 
 
 ## Links Interessantes
 
