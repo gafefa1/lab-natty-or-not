@@ -4,13 +4,11 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, Gabriel alundo da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO é para conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🎯 Objetivos
 
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
+1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. 
 1. **Potfólio de Projetos**:
     1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
     2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
@@ -20,23 +18,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto: Avatar usando minha voz;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Foi realizado um vídeo usando algumas ferramentas de IA com o meu próprio aúdio, Natural ou Fake Natty?
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+* ChatGPT (https://chatgpt.com/)
+* ElevenLabs (https://elevenlabs.io/)
+* D-id (https://studio.d-id.com/)
+* Clipchamp (https://clipchamp.com/pt-br/)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+* 1º passo: Utilizado o ChatGPT para fazer o texto do roteiro do projeto, utilizando Promts elaborados.
+* 2º passo: Utilizado o ElevenLabas para clonar minha própria voz e em seguida usamos ele para transformar o texto do roteiro para áudio com a minha voz clonada.
+* 3º passo: Utilizado o D-id para criar um avatar junto com o arquivo gerado do Elevenlabs resultando em três aruivos de vídeo.
+* 4ª passo: Utilizado o Clipchamp para fazer a adição dos vídeos gerados no D-id juntamente com a edição. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Segue o link do resultado do meu projeto: 
 
 ### Exemplos e Insigths
 
