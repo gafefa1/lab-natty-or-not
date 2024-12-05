@@ -25,10 +25,10 @@ Foi realizado um vídeo usando algumas ferramentas de IA com o meu próprio aúd
 * Clipchamp (https://clipchamp.com/pt-br/)
 
 ## 🧐 Processo de Criação
-* 1º passo: Utilizado o ChatGPT para fazer o texto do roteiro do projeto, utilizando Promts elaborados.
-* 2º passo: Utilizado o ElevenLabas para clonar minha própria voz e em seguida usamos ele para transformar o texto do roteiro para áudio com a minha voz clonada.
-* 3º passo: Utilizado o D-id para criar um avatar junto com o arquivo gerado do Elevenlabs resultando em três aruivos de vídeo.
-* 4ª passo: Utilizado o Clipchamp para fazer a adição dos vídeos gerados no D-id juntamente com a edição. 
+1º passo: Utilizado o ChatGPT para fazer o texto do roteiro do projeto, utilizando Promts elaborados.
+2º passo: Utilizado o ElevenLabas para clonar minha própria voz e em seguida usamos ele para transformar o texto do roteiro para áudio com a minha voz clonada.
+3º passo: Utilizado o D-id para criar um avatar junto com o arquivo gerado do Elevenlabs resultando em três aruivos de vídeo.
+4ª passo: Utilizado o Clipchamp para fazer a adição dos vídeos gerados no D-id juntamente com a edição. 
 
 ## 🚀 Resultados
 Segue o link do resultado do meu projeto: 
